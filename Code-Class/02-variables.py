@@ -35,12 +35,12 @@ print(type(num2))
 num3 = 1_056_100.23  # (float)
 print(num3)
 
-# print("---Calculations---")
+print("---Calculations---")
 
 num4 = num1 * num2
 print(num4)
 
-# # we can also use this format to put variables inside a string
+# we can also use this format to put variables inside a string
 print(f"The product of {num1} and {num2} is: {num1 * num2}")
 
 print(1 / 3)
